@@ -30,8 +30,9 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 
 
-awr.min.css
+# awr.min.css
 
+```
 @charset "UTF-8";
 
 awr {
@@ -7245,3 +7246,4 @@ a.awr-bg-mod-04:hover {
     display: block;
     border-radius: 50%
 }
+```
